@@ -25,8 +25,9 @@ if __name__ == "__main__":
  ```  
 
 ### 4- run local 
+```
 python app.py   
-
+```
 ### 5- install heroku CLI based your system for example Mac
 ```
  brew tap heroku/brew && brew install heroku  
@@ -58,7 +59,7 @@ git commit -am "make it better"
 git push heroku master    
 ```
 ---------------------------
-### for deactivate Python Virtual Environment
+### To deactivate Python Virtual Environment
 ```
 conda deactivate
 ```
