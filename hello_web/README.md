@@ -1,4 +1,4 @@
-# hello-web
+# hello_web
 
 ## Demo 
 
@@ -9,6 +9,6 @@ https://attaa.herokuapp.com
 3) Install packages from requirements.txt  
 pip install -r requirements.txt 
 4) Run the project    
-cd hello
-python app.py  
+cd Attaa_workshop/hello_web      
+python app.py   
 5) Visit http://localhost:5000 or (http://127.0.0.1:5000)
