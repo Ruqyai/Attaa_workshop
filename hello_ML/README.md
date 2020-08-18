@@ -9,6 +9,7 @@ https://model-deployment-flask.herokuapp.com
 3) Install packages from requirements.txt  
 pip install -r requirements.txt 
 4) Run the project    
-cd hello
+cd Attaa_workshop/hello_ML  
+
 python app.py  
 5) Visit http://localhost:5000 or (http://127.0.0.1:5000)
