@@ -1,7 +1,7 @@
 # Attaa_workshop
 # The Steps
-### 1- Create Python Virtual Environment (Make sure that you have python or download it  https://www.python.org/downloads )
-**note** : I use MacOS if you use other OS system, maybe there is a bit difference in the commands.
+### 1- Create Python Virtual Environment (Make sure that you have python or download it.[download](https://www.python.org/downloads )
+**note** : I use MacOS if you use other OS system, maybe there is a bit difference in the commands.[resource](https://mothergeo-py.readthedocs.io/en/latest/development/how-to/venv-win.html)
 ```
 python -m venv attaa   
 source attaa/bin/activate       
