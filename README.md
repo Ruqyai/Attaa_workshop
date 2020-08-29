@@ -1,6 +1,7 @@
 # Attaa_workshop
 # The Steps
 ### 1- Create Python Virtual Environment (Make sure that you have python or download it  https://www.python.org/downloads )
+**note** : I use MacOS if you use other OS system, maybe there is a bit difference in the commands.
 ```
 python -m venv attaa   
 source attaa/bin/activate       
